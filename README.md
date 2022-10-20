@@ -27,3 +27,17 @@ Then simply call it:
 joker.Joke()
 
 </pre>
+
+Here's an example:
+
+<pre>
+package main
+
+import (
+	"github.com/AvicennaJr/jopher/joker"
+)
+
+func main() {
+	joker.Joke()
+}
+</pre>
